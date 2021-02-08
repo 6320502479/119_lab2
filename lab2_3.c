@@ -29,7 +29,7 @@ int main()
     i1=1;
    if(in[0]=='C')
     i1=2;
-    if(in[1]=='A')
+   if(in[1]=='A')
     i2=0;
    if(in[1]=='B')
     i2=1;
